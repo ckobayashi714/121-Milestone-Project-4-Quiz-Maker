@@ -1,0 +1,13 @@
+---
+MainSourceFile:  /home/student/project-milestone-4-ckobayashi714/quiz.cpp
+Diagnostics:     
+  - DiagnosticName:  readability-inconsistent-declaration-parameter-name
+    Message:         'function ''load_questions'' has a definition with different parameter names'
+    FileOffset:      595
+    FilePath:        ./quiz.hpp
+    Replacements:    
+      - FilePath:        ./quiz.hpp
+        Offset:          646
+        Length:          9
+        ReplacementText: filename
+...

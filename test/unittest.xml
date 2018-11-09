@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="16" failures="0" disabled="0" errors="0" timestamp="2018-11-09T10:17:43" time="0.094" name="AllTests">
+  <testsuite name="Quiz" tests="16" failures="0" disabled="0" errors="0" time="0.094">
+    <testcase name="PublicMethodsPresent" status="run" time="0" classname="Quiz" />
+    <testcase name="MutatorsAndAccessors" status="run" time="0" classname="Quiz" />
+    <testcase name="CreateQuestion" status="run" time="0.002" classname="Quiz" />
+    <testcase name="SaveQuestion" status="run" time="0.012" classname="Quiz" />
+    <testcase name="SaveFileFormat" status="run" time="0.007" classname="Quiz" />
+    <testcase name="LoadQuestions" status="run" time="0.008" classname="Quiz" />
+    <testcase name="DisplayQuestions" status="run" time="0.004" classname="Quiz" />
+    <testcase name="CreateQuestionChoice" status="run" time="0.003" classname="Quiz" />
+    <testcase name="FiniteChoiceLoop" status="run" time="0.002" classname="Quiz" />
+    <testcase name="DisplayQuestionsChoice" status="run" time="0.002" classname="Quiz" />
+    <testcase name="SaveQuestionsChoice" status="run" time="0.002" classname="Quiz" />
+    <testcase name="LoadQuestionsChoice" status="run" time="0.003" classname="Quiz" />
+    <testcase name="QuitChoice" status="run" time="0.002" classname="Quiz" />
+    <testcase name="InvalidOptionChoice" status="run" time="0.002" classname="Quiz" />
+    <testcase name="ChoiceLoopLowercase" status="run" time="0.026" classname="Quiz" />
+    <testcase name="ChoiceLoopUppercase" status="run" time="0.017" classname="Quiz" />
+  </testsuite>
+</testsuites>
